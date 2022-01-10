@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "exercises-classes4/1.0.0": {
+        "runtime": {
+          "exercises-classes4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercises-classes4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

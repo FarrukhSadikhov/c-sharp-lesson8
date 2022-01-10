@@ -1,0 +1,13 @@
+C:\Users\Farrukh\source\repos\exercises-classes1\exercises-classes1\bin\Debug\netcoreapp3.1\exercises-classes1.exe
+C:\Users\Farrukh\source\repos\exercises-classes1\exercises-classes1\bin\Debug\netcoreapp3.1\exercises-classes1.deps.json
+C:\Users\Farrukh\source\repos\exercises-classes1\exercises-classes1\bin\Debug\netcoreapp3.1\exercises-classes1.runtimeconfig.json
+C:\Users\Farrukh\source\repos\exercises-classes1\exercises-classes1\bin\Debug\netcoreapp3.1\exercises-classes1.runtimeconfig.dev.json
+C:\Users\Farrukh\source\repos\exercises-classes1\exercises-classes1\bin\Debug\netcoreapp3.1\exercises-classes1.dll
+C:\Users\Farrukh\source\repos\exercises-classes1\exercises-classes1\bin\Debug\netcoreapp3.1\exercises-classes1.pdb
+C:\Users\Farrukh\source\repos\exercises-classes1\exercises-classes1\obj\Debug\netcoreapp3.1\exercises-classes1.csprojAssemblyReference.cache
+C:\Users\Farrukh\source\repos\exercises-classes1\exercises-classes1\obj\Debug\netcoreapp3.1\exercises-classes1.AssemblyInfoInputs.cache
+C:\Users\Farrukh\source\repos\exercises-classes1\exercises-classes1\obj\Debug\netcoreapp3.1\exercises-classes1.AssemblyInfo.cs
+C:\Users\Farrukh\source\repos\exercises-classes1\exercises-classes1\obj\Debug\netcoreapp3.1\exercises-classes1.csproj.CoreCompileInputs.cache
+C:\Users\Farrukh\source\repos\exercises-classes1\exercises-classes1\obj\Debug\netcoreapp3.1\exercises-classes1.dll
+C:\Users\Farrukh\source\repos\exercises-classes1\exercises-classes1\obj\Debug\netcoreapp3.1\exercises-classes1.pdb
+C:\Users\Farrukh\source\repos\exercises-classes1\exercises-classes1\obj\Debug\netcoreapp3.1\exercises-classes1.genruntimeconfig.cache
